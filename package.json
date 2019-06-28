@@ -1,0 +1,23 @@
+{
+  "name": "bidder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bidder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoussefinia/bidder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoussefinia/bidder/issues"
+  },
+  "homepage": "https://github.com/ayoussefinia/bidder#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mysql": "^2.17.1"
+  }
+}
